@@ -14,7 +14,7 @@ Adım 4: 2, 6 ve 16 hariç en küçük sayıya bakıyoruz, bu sayı 18dir. 18 il
 Adım 5: 2, 6 16 ve 18 hariç en küçük sayı 22dir ve yeri doğrudur. 
 
 
-**Tme Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
+** Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 
 Average case: Aradığımız sayının ortada olması
 Worst case: Aradığımız sayının sonda olması
@@ -30,4 +30,4 @@ Adım 2: Kümenin 2 hariç en küçük elemanı 3tür ve yeri doğrdur. . [2,3,5
 
 Adım 3: Kümenin 2 ve 3 hariç en küçük elemanı 5tir ve yeri doğrdur. . [2,3,5,8,7,9,4,15,6] `
 
-Adım 2: Kümenin 2 , 3 ve 5 hariç en küçük elemanı 6tür ve yeri 8 ile değiştilir. [2,3,5,6,7,9,4,15,8]``
+Adım 4: Kümenin 2 , 3 ve 5 hariç en küçük elemanı 6tür ve yeri 8 ile değiştilir. [2,3,5,6,7,9,4,15,8]``
